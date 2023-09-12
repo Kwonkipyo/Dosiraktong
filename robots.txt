@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://dosiraktong-nu.vercel.app/
+
+# Sitemaps
+Sitemap: https://clone-anychem.vercel.app/sitemap.xml
